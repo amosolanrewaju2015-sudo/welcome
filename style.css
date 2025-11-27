@@ -39,21 +39,27 @@ header {
 }
 
 header div h3 {
+    color: blue;
     font-size: 40px;
     margin-top: 6rem;
+    margin-left: 4rem;
 }
 
 header div p {
-    font-size: 20px;
+    font-size: 25px;
+    color: rgb(26, 25, 25);
     padding: 20px;
+    margin-left: 3rem;
 }
 
 header div button {
     width: 120px;
-    height: 30px;
-    color: black;
-    background-color: transparent;
+    height: 40px;
+    color: whitesmoke;
+    border: none;
+    background-color: green;
     font-size: 15px;
+    margin-left: 4rem;
 }
 
 @media only screen and (max-width:850px) {
